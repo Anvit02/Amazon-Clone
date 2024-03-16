@@ -1,0 +1,1 @@
+Welcome to the Amazon Clone project! This project is a replica of the popular e-commerce platform Amazon, created using HTML and CSS. With this clone, you can explore the frontend design and layout of Amazon's website.
